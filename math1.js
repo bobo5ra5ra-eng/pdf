@@ -1,0 +1,21 @@
+[
+  {
+    "type": "pdf",
+    "name": "exam1",
+    "url": "https://raw.githubusercontent.com/bobo5ra5ra-eng/pdf/main/lesson1.pdf"
+  },
+  {
+    "type": "video",
+    "name": "video test",
+    "url": "https://www.youtube.com/watch?v=7zHYthpRFdg"
+  },
+  {
+    "type": "pdf",
+    "name": "Lesson 2 - Geometry",
+    "url": "https://raw.githubusercontent.com/bobo5ra5ra-eng/pdf/main/lesson2.pdf"
+  },
+  {
+    "type": "video",
+    "name": "Lesson 2 Video",
+    "url": "https://www.youtube.com/watch?v=oHg5SJYRHA0"
+  }
