@@ -1,0 +1,77 @@
+[
+  {
+    "type": "pdf",
+    "name": "exam1",
+    "url": "https://raw.githubusercontent.com/bobo5ra5ra-eng/pdf/main/lesson1.pdf"
+  },
+  {
+    "type": "video",
+    "name": "ملخص شامل لدروس الفصل الثاني في الرياضيات والتحضير الجيّد الفرض والاختبار للسنة الأولى متوسط",
+    "url": "https://www.youtube.com/watch?v=ucTV9qv1cEw"
+  },
+  {
+    "type": "pdf",
+    "name": "Lesson 2 - Geometry",
+    "url": "https://raw.githubusercontent.com/bobo5ra5ra-eng/pdf/main/lesson2.pdf"
+  },
+  {
+    "type": "video",
+    "name": "شرح جميع دروس المقطع الأول أنشطة هندسية بالتفصيل في مادة الرياضيات أولى متوسط تنال العلامة الكاملة",
+    "url": "https://www.youtube.com/watch?v=q-RLBey2LiQ"
+  },
+  {
+    "type": "video",
+    "name": "مراجعة شاملة لجميع دروس الرياضيات للثلاثي الثاني أولى متوسط الجيل الثاني",
+    "url": "https://www.youtube.com/watch?v=FZKe-PnDyoQ&t=3s"
+  },
+  {
+    "type": "video",
+    "name": "الدرس الأول: الأعداد الطبيعية / الاولى متوسط (1م)",
+    "url": "https://www.youtube.com/watch?v=dZv1PBuN91E&list=PLBChSDzyIDOjTE-gd2MvbKI0h4YG_wB8m"
+  },
+  {
+    "type": "video",
+    "name": "جمع و طرح و ضرب الأعداد الطبيعية / الاولى متوسط (1م)",
+    "url": "https://www.youtube.com/watch?v=C2A_HEA5Q6s&list=PLBChSDzyIDOjTE-gd2MvbKI0h4YG_wB8m&index=2"
+  },
+  {
+    "type": "video",
+    "name": "الكسور العشرية / الاولى متوسط (1م)",
+    "url": "https://www.youtube.com/watch?v=IevRry2wM9Q&list=PLBChSDzyIDOjTE-gd2MvbKI0h4YG_wB8m&index=3"
+  },
+  {
+    "type": "video",
+    "name": "الإنتقال من الكتابة الكسرية إلى العشرية و العكس / الاولى متوسط (1م)",
+    "url": "https://www.youtube.com/watch?v=eHqnnJZk_cU&list=PLBChSDzyIDOjTE-gd2MvbKI0h4YG_wB8m&index=4"
+  },
+  {
+    "type": "video",
+    "name": "الأولى متوسط / المقطع الأول / الدرس 05 : الضرب في 10-100-1000",
+    "url": "https://www.youtube.com/watch?v=LqFMK7sOtLw&list=PLBChSDzyIDOjTE-gd2MvbKI0h4YG_wB8m&index=5"
+  },
+  {
+    "type": "video",
+    "name": "الضرب و القسمة على 10-100-1000 / الأولى متوسط (1م)",
+    "url": "https://www.youtube.com/watch?v=vtKczBmNknY&list=PLBChSDzyIDOjTE-gd2MvbKI0h4YG_wB8m&index=6"
+  },
+  {
+    "type": "video",
+    "name": "الأولى متوسط/ المقطع 01 / الدرس 06: القسمة على 10-100-1000",
+    "url": "https://www.youtube.com/watch?v=8-NuzGSOEQw&list=PLBChSDzyIDOjTE-gd2MvbKI0h4YG_wB8m&index=7"
+  },
+  {
+    "type": "video",
+    "name": "الأولى متوسط (1م)/ المقطع 01 / الدرس 07 :الضرب في (القسمة على ) 0.1- 0.01 - 0.001",
+    "url": "https://www.youtube.com/watch?v=aL5sNyIAS2o&list=PLBChSDzyIDOjTE-gd2MvbKI0h4YG_wB8m&index=8"
+  },
+  {
+    "type": "video",
+    "name": "السنة 1 متوسط / المقطع الأول / الدرس 08: مقارنة و ترتيب الأعدلد العشرية",
+    "url": "https://www.youtube.com/watch?v=eOMYR_2uJzY&list=PLBChSDzyIDOjTE-gd2MvbKI0h4YG_wB8m&index=9"
+  },
+  {
+    "type": "video",
+    "name": "الأولى متوسط (1م)/ المقطع الأول / الدرس10: القيم التقريبية و الحصر مع واجب في نهاية الفيديو",
+    "url": "https://www.youtube.com/watch?v=nxpU0CDsogg&list=PLBChSDzyIDOjTE-gd2MvbKI0h4YG_wB8m&index=10"
+  }
+]
