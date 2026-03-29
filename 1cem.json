@@ -2,7 +2,8 @@
   {
     "type": "pdf",
     "name": "exam1",
-    "url": "https://raw.githubusercontent.com/bobo5ra5ra-eng/pdf/main/lesson1.pdf"
+    "term":"1",
+    "url": "https://raw.githubusercontent.com/Touti-Sudo/MathDZ/main/lesson1.pdf"
   },
   {
     "type": "video",
@@ -12,7 +13,7 @@
   {
     "type": "pdf",
     "name": "Lesson 2 - Geometry",
-    "url": "https://raw.githubusercontent.com/bobo5ra5ra-eng/pdf/main/lesson2.pdf"
+    "url": "https://raw.githubusercontent.com/Touti-Sudo/MathDZ/main/lesson2.pdf"
   },
   {
     "type": "video",
